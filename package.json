@@ -1,0 +1,9 @@
+{
+  "name": "csprclick-html",
+  "version": "1.0.0",
+  "description": "An empty HTML app with CSPR.click",
+  "scripts": {
+    "server": "npx http-serve ./public"
+  },
+  "author": "davidatwhiletrue"
+}
